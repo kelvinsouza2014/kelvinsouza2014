@@ -1,9 +1,125 @@
-### Olá! me chamo Kelvin Souza 🖐
+<!-- <h1 align="center"> 📌 Blog de Biográfico</h1>
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+
+<br>
+
+## Protótipo
+![Projeto - League of Braum](https://github.com/kelvinsouza2014/blog-biografico/assets/121948262/ec8aa05d-062e-4df4-8d36-be379d59bf39)
+
+<br>
+
+## Resultado final
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./imagens/preview_braum_00.png" alt="Imagem 1">
+    </td>
+    <td width="50%">
+      <img src="./imagens/preview_braum_01.png" alt="Imagem 2">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./imagens/preview_braum_02.png" alt="Imagem 3">
+    </td>
+    <td width="50%">
+      <img src="./imagens/preview_braum_03.png" alt="Imagem 4">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./imagens/preview_braum_00.png" alt="Imagem 5">
+    </td>
+    <td width="50%">
+      <img src="./imagens/preview_braum_00.png" alt="Imagem 6">
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+## 📎 **Sumário**
+- ⭐ Características
+- 📂 Temas abordados
+- 🏆 Desafio
+- ⚙ Tecnologias
+- 💻 Demonstração
+- 🙋🏻‍♂️ Autor / Desenvolvedor
+
+<br>
+
+## ⭐ **Características**
+
+- Lorem Ipsum is simply dummy
+- Lorem Ipsum is simply dummy
+- Lorem Ipsum is simply dummy
+- Lorem Ipsum is simply dummy
+- Lorem Ipsum is simply dummy
+
+<br>
+
+## 📂 Temas abordados
+
+Lorem Ipsum is simply:
+
+- Lorem Ipsum
+- Lorem Ipsum
+- Lorem Ipsum
+- Lorem Ipsum
+- Lorem Ipsum
+
+<br>
+
+## 🏆 Desafio
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+<br>
+
+## ⚙ Tecnologias
+`JavaScript` • `html` • `css` 
+
+<br>
+
+## 💻 Demonstração
+Você pode acessar ao resultado final do projeto <a href="[ URL ]" target="_blank">Clicando aqui</a>.
+
+<br>
+
+## 🙋🏻‍♂️ Autor / Desenvolvedor
+
+Kelvin Souza
+
+<br>
+
+<a href="https://www.linkedin.com/in/kelvinsouza00/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+</a> -->
+
+
+
+
+
+
+
+
+### Olá! Eu sou o Kelvin Souza 🖐
 
 ![Blog](https://img.shields.io/badge/Desenvolvedor-FrontEnd-0071C5?style=for-the-badge&logoColor=white) ![Blog](https://img.shields.io/badge/WebDesigner-UX/UI-0071C5?style=for-the-badge&logoColor=white)
 
 
 ![Kelvin Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinsouza2014&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsouza2014&layout=compact&theme=transparent)
 
 
 ## Tecnologias que utilizo no meu dia a dia:
@@ -23,3 +139,4 @@
     <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-3A5CEB?style=for-the-badge&logo=canva&logoColor=white"/>
     <img align="center" alt="wordpress" src="https://img.shields.io/badge/Markdown-403d3d?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </div>
+

@@ -24,6 +24,6 @@
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-3A5CEB?style=for-the-badge&logo=canva&logoColor=white"/>
     <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-007298?style=for-the-badge&logo=wordpress&logoColor=white"/>
-    <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-403d3d?style=for-the-badge&logo=wordpress&logoColor=white"/>
+    <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-403d3d?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
 

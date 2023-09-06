@@ -24,5 +24,5 @@
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-3A5CEB?style=for-the-badge&logo=canva&logoColor=white"/>
     <img align="center" alt="wordpress" src="https://img.shields.io/badge/Markdown-403d3d?style=for-the-badge&logo=markdown&logoColor=white"/>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-c32f39?style=for-the-badge&logo=java&logoColor=white"/>
     <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.Js-018233?style=for-the-badge&logo=nodejs&logoColor=white"/>
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-c32f39?style=for-the-badge&logo=java&logoColor=white"/>

@@ -10,9 +10,10 @@
 
 ## Tecnologias que utilizo no meu dia a dia:
 <div style="display: inline_block">
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-79d8f6?style=for-the-badge&logo=react&logoColor=black"/>
+    <img align="center" alt="react" src="https://img.shields.io/badge/Vite-BC33FD?style=for-the-badge&logo=vite&logoColor=FFDD39"/>
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-3074BF?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-79d8f6?style=for-the-badge&logo=react&logoColor=black"/>
     <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.Js-018233?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>

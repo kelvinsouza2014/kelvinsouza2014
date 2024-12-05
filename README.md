@@ -27,7 +27,7 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-6A0FED?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white"/>
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-1A1E22?style=for-the-badge&logo=github&logoColor=white"/>
-    <img align="center" alt="aws" src="https://img.shields.io/badge/Aws-f69413?style=for-the-badge&logo=aws&logoColor=F69413"/>
+    <img align="center" alt="aws" src="https://img.shields.io/badge/Aws-e58910?style=for-the-badge&logo=aws&logoColor=F69413"/>
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-3A5CEB?style=for-the-badge&logo=canva&logoColor=white"/>
     <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-403d3d?style=for-the-badge&logo=markdown&logoColor=white"/>

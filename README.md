@@ -18,12 +18,13 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-c32f39?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-79d8f6?style=for-the-badge&logo=react&logoColor=black"/>
     <img align="center" alt="vite" src="https://img.shields.io/badge/Vite-BC33FD?style=for-the-badge&logo=vite&logoColor=FFFE20"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>    
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-030303?style=for-the-badge&logo=linux&logoColor=white"/>
 </div>
 
 <br>
 
 <div style="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-6A0FED?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white"/>

@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsouza2014&layout=compact&theme=transparent)
 
 
-# Engenheiro de software, focado na parte visual e estrutural do sistema.
+# Hard skills:
 <div style="display: inline_block">
     <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DC0031?style=for-the-badge&logo=angular&logoColor=white"/>
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-3074BF?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -17,7 +17,12 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-c32f39?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-79d8f6?style=for-the-badge&logo=react&logoColor=black"/>
     <img align="center" alt="vite" src="https://img.shields.io/badge/Vite-BC33FD?style=for-the-badge&logo=vite&logoColor=FFFE20"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>    
+</div>
+
+<br>
+
+<div style="display: inline_block">
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-6A0FED?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="git" src="https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white"/>
@@ -25,11 +30,5 @@
     <img align="center" alt="aws" src="https://img.shields.io/badge/Aws-212E3C?style=for-the-badge&logo=aws&logoColor=F69413"/>
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-3A5CEB?style=for-the-badge&logo=canva&logoColor=white"/>
-    <img align="center" alt="wordpress" src="https://img.shields.io/badge/Markdown-403d3d?style=for-the-badge&logo=markdown&logoColor=white"/>    
-</div>
-
-<br>
-
-<div style="display: inline_block">
-    
+    <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-403d3d?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>

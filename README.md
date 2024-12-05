@@ -1,6 +1,6 @@
 # Olá! me chamo Kelvin Souza 🖐
 
-![Blog](https://img.shields.io/badge/Engenheiro-FullStack-0071C5?style=for-the-badge&logoColor=white) 
+![Blog](https://img.shields.io/badge/Desenvolvedor-FullStack-0071C5?style=for-the-badge&logoColor=white) 
 ![Blog](https://img.shields.io/badge/Desenvolvedor-FrontEnd-0071C5?style=for-the-badge&logoColor=white) 
 ![Blog](https://img.shields.io/badge/Designer-UX/UI-0071C5?style=for-the-badge&logoColor=white)
 

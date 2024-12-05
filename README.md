@@ -18,7 +18,7 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-c32f39?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="react" src="https://img.shields.io/badge/React-79d8f6?style=for-the-badge&logo=react&logoColor=black"/>
     <img align="center" alt="vite" src="https://img.shields.io/badge/Vite-BC33FD?style=for-the-badge&logo=vite&logoColor=FFFE20"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-030303?style=for-the-badge&logo=linux&logoColor=white"/>
+    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FEBC13?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
 <br>

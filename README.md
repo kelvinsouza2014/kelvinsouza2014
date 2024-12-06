@@ -6,7 +6,7 @@
 
 ![Kelvin Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinsouza2014&show_icons=true&theme=transparent)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsouza2014&layout=compact&theme=transparent)
 
 
 # Hard skills:
